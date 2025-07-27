@@ -846,6 +846,12 @@ section {
     background: linear-gradient(135deg, #000000 0%, #0a0a0a 100%);
 }
 
+.contact .section-title {
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
 .contact-content {
     display: grid;
     grid-template-columns: 1fr 1fr;
